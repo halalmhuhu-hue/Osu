@@ -2,7 +2,7 @@
  * Example baseHost at host is set up to respond with HTML
  * Replace url with the host you wish to send requests to
  */
-const baseHost = 'https://tiktok.com//'
+const baseHost = 'https://agar.io//'
 
 /**
  * gatherResponse awaits and returns a response body with appropriate headers.
